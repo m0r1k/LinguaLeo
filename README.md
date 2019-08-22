@@ -8,7 +8,7 @@ The official site of LinguaLeo: https://lingualeo.com/
 
 ## Installation
 
-dnf install https://github.com/m0r1k/LinguaLeo.git/rpms/x86_64/lingualeo-1.0.2-1.x86_64.rpm
+sudo dnf install https://github.com/m0r1k/LinguaLeo/raw/master/rpms/x86_64/lingualeo-1.0.2-1.x86_64.rpm
 
 ## Usage
 
