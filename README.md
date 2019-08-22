@@ -6,6 +6,8 @@ This is an unofficial version. Only Fedora 29 is supported now.
 
 The official site of LinguaLeo: https://lingualeo.com/
 
+| <img width="250" src="https://github.com/m0r1k/LinguaLeo/blob/master/images/ui_01.png?raw=true"></img> | <img width="250" src="https://github.com/m0r1k/LinguaLeo/blob/master/images/ui_02.png?raw=true"></img> | <img width="250" src="https://github.com/m0r1k/LinguaLeo/blob/master/images/ui_03.png?raw=true"></img> |
+
 ## Installation
 
 sudo dnf install https://github.com/m0r1k/LinguaLeo/raw/master/rpms/x86_64/lingualeo-1.0.2-1.x86_64.rpm
