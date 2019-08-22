@@ -1,4 +1,4 @@
-# LinguaLeo Linux client
+# The LinguaLeo Linux client
 
 LinguaLeo is a simple, Qt based, English-Rusian online translator for Linux.
 
