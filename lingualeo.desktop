@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=LinguaLeo
+Path=/usr/share/lingualeo/
+Icon=/usr/share/lingualeo/images/i128.png
+Exec=/usr/bin/lingualeo
+Categories=GTK;GNOME;Education;Translation;Dictionary;Languages
